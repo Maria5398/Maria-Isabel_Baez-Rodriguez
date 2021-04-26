@@ -10,6 +10,8 @@
 [Link del repositorio](https://github.com/thrasheremperor/grupo_6_biciBikes)
 
 
-Éste es el proyecto integrador que desarrollamos y presentamos al final del curso junto a mis compañeros de equipo, [Sofia Vazquez](https://github.com/msofia97),[Ezequiel Arias](https://github.com/EzequielArias12), [Matias Godoy](https://github.com/thrasheremperor). 
-El mismo es un E-Commerce para una bicicleteria, pensado e inspirandonos diseños de muchas otras paginas. Utilizamos una metodología de trabajo tipo SCRUM, donde por cada sprint que se nos iba presentando debíamos cumplir los objetivos plantedos. Para la aplicación utilizamos las siguientes herramientas y tecnologías: Figma y MockFlow (para la creación de los Wireframes), Express, template engines(ejs), Css, Bootstrap, Middleware, Javascript Front, Migraciones Sequelie, MySQL con sequelize.
+Éste es el proyecto integrador que desarrollamos y presentamos al final del curso junto a mis compañeros de equipo, [Sofia Vazquez](https://github.com/msofia97), [Ezequiel Arias](https://github.com/EzequielArias12), [Matias Godoy](https://github.com/thrasheremperor). 
+
+El mismo es un E-Commerce para una bicicleteria, pensado e inspirandonos diseños de muchas otras paginas. 
+Utilizamos una metodología de trabajo tipo SCRUM, donde por cada sprint que se nos iba presentando debíamos cumplir los objetivos plantedos. Para la aplicación utilizamos las siguientes herramientas y tecnologías: Figma y MockFlow (para la creación de los Wireframes), Express, template engines(ejs), Css, Bootstrap, Middleware, Javascript Front, Migraciones Sequelie, MySQL con sequelize.
 
