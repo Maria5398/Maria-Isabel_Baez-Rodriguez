@@ -1,7 +1,7 @@
 # Bienvenid@s a mi repositorio
 
 - Soy Maria Isabel Baez Rodriguez una Programadora Web Full Stack - Curso finalizado en abril 2021 - Gracias a Digital House , Fundacion Formar y Sandander
-- Donde aprendi Javascript con NodeJs, utilizando el framework Express (MVC), HTML , CSS con Boosttrap ,librerías NPM, sequelize(ORM), MySQL como base de datos, javascript front, APIs, y ReactJs.
+- En este curso aprendi Javascript con NodeJs, utilizando el framework Express (MVC), HTML , CSS con Boosttrap ,librerías NPM, sequelize(ORM), MySQL como base de datos, javascript front, APIs, y ReactJs.
 
 
 - Digital House | 2020 - 2021 Aplicación de tecnologías: Javascript, Node.js, Express, HTML 5, CSS 3, Bootstrap, MySQL (Sequelize). Creación de proyecto de E-Commerce desde el maquetado hasta la funcionalidad con las tecnologías nombradas
