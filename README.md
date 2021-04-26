@@ -7,7 +7,7 @@
 - Digital House | 2020 - 2021 Aplicación de tecnologías: Javascript, Node.js, Express, HTML 5, CSS 3, Bootstrap, MySQL (Sequelize). Creación de proyecto de E-Commerce desde el maquetado hasta la funcionalidad con las tecnologías nombradas
 
 
-*[Link del repositorio del Proyecto realizado](https://github.com/thrasheremperor/grupo_6_biciBikes)*
+**[Link del repositorio del Proyecto realizado](https://github.com/thrasheremperor/grupo_6_biciBikes)**
 
 
 - Éste es el proyecto integrador que desarrollamos y presentamos al final del curso junto a mis compañeros de equipo, [Sofia Vazquez](https://github.com/msofia97), [Ezequiel Arias](https://github.com/EzequielArias12), [Matias Godoy](https://github.com/thrasheremperor). 
