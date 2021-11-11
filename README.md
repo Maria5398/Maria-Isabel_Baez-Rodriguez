@@ -9,6 +9,7 @@
 
     **[Link del repositorio del Proyecto realizado](https://github.com/thrasheremperor/grupo_6_biciBikes)**
 
+- Udemy | 2021 Formacion en Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress 
 
 - Éste es el proyecto integrador que desarrollamos y presentamos al final del curso junto a mis compañeros de equipo, [Sofia Vazquez](https://github.com/msofia97), [Ezequiel Arias](https://github.com/EzequielArias12), [Matias Godoy](https://github.com/thrasheremperor). 
 
