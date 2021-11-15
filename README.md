@@ -1,6 +1,6 @@
 # Bienvenid@s a mi repositorio
 
-- Soy Maria Isabel Baez Rodriguez una Programadora Web Full Stack - Curso finalizado en abril 2021 - Gracias a Digital House , Fundacion Formar y Sandander
+- Soy Maria Isabel Baez Rodriguez Programadora Web Full Stack - Curso finalizado en abril 2021 - Gracias a Digital House , Fundacion Formar y Sandander
 - En este curso aprendi Javascript con NodeJs, utilizando el framework Express (MVC), HTML , CSS con Boosttrap ,librerías NPM, sequelize(ORM), MySQL como base de datos, javascript front.
 
 
